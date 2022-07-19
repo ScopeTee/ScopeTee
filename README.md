@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm FUAD</h1>
-<h3 align="center">A passionate full stack web developer from Nigeria</h3>
+<h3 align="center">A Full Stack Web Developer from Nigeria</h3> <br>
+<hr>
 
 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=scopetee&" alt="scopetee" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scopetee&" alt="scopetee" /></p>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scopetee&label=Profile%20views&color=0e75b6&style=flat" alt="scopetee" /> </p>
+<p align="left> A Full Stack Web Developer with elegant and innovative ideas coupled with the problem-solving skill to provide quick and long-lasting solutions to issues concerning the Web. As a focused, passionate, and professional individual who has transitioned into the Tech Industry, I dedicate time and resources to presenting existing and potential clients/employers with completed projects that meet and exceed their initial foresight. By employing my services, I am willing to be an asset to you and your organisation
 
 - 👨‍💻 Portfolio: [tayo-subair-fuad.netlify.app](tayo-subair-fuad.netlify.app)
 
@@ -19,7 +22,7 @@
  -->
 
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scopetee&show_icons=true&locale=en&layout=compact" alt="scopetee" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scopetee&show_icons=true&locale=en&layout=compact" alt="scopetee" /></p>
  <hr>
 
 <h3 align="center">Connect with me:</h3>
