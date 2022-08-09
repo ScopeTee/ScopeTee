@@ -12,8 +12,7 @@
 
 - 📫 Mail: **tayosubairfuad@gmail.com**
 
-- 📄 Link to my Resume: [https://drive.google.com/file/d/1tD5y3e0F8fMzCBO90C5s7WDejQjv8hb7/view](https://drive.google.com/file/d/1tD5y3e0F8fMzCBO90C5s7WDejQjv8hb7/view)
-
+- 📄 Link to my Resume: https://drive.google.com/file/d/1p_oLHboM8PT9olrvWufgbw_uloD-I4CV/view?usp=sharing
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scopetee&show_icons=true&locale=en" alt="scopetee" /></p>
  -->
